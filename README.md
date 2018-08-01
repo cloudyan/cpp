@@ -51,6 +51,7 @@
       "label": "echo",
       "type": "shell",
       "command": "g++",
+      // Add any required args (for example -g to build for debugging).
       "args": [
         "-g",
         "main.cpp"
