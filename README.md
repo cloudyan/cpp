@@ -1,5 +1,7 @@
 # cpp
 
+迁移到 [vscode-debug](https://github.com/cloudyan/vscode-debug)
+
 学习 C++
 
 - http://www.runoob.com/cplusplus/cpp-tutorial.html
