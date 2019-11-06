@@ -1,6 +1,6 @@
 # cpp
 
-迁移到 [vscode-debug](https://github.com/cloudyan/vscode-debug)
+迁移到 [debugging/cpp](https://github.com/deepjs-net/debugging/tree/master/packages/cpp)
 
 学习 C++
 
